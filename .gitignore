@@ -1,0 +1,5 @@
+node_modules
+original.json
+output.json
+translation.json
+true.json
